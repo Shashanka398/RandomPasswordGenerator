@@ -20,8 +20,7 @@ After selecting your options, click the "Generate Password" button to generate a
 
 You can then copy the generated password to your clipboard by clicking the "Copy Password" button.
 
-<h3>Demo<h3>
+<h3>Demo</h3>
 You can try out the live demo of this application at https://example.com/random-password-generator.
 
-License
-This project is licensed under the MIT License. See the LICENSE file for more information.
+
